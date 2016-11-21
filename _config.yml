@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:Joao Braganca Gil
+owner:JOAOBGIL
 email:J.bragancagil@gmail.com
 twitter_username:J_BGIL
 github_username:JOAOBGIL
