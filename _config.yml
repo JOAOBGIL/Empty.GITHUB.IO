@@ -1,5 +1,5 @@
 # Site settings
-title:
+title:Joao/ Gil
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,13 +9,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: Joao Braganca Gil
+email: j.bragancagil@gmail.com
+twitter_username:J_BGIL
+github_username:JOAOBGIL
 address:
-  - line:
+  - line:N16 8LN
   - line:
   # Feel free to add more lines here 
 telephone:
